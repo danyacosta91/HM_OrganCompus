@@ -1,6 +1,6 @@
 comment!
 ###############################################################################
-subrutina bintotxt
+subrutina lsttotxt
 entrada: esi apuntador a la lista de valores
          edi puntero donde se pondra el texto
 salida:  edi apuntara a donde se ponga el espacio en blanco al final del string
