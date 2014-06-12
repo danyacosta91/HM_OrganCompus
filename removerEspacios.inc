@@ -1,6 +1,6 @@
 comment!
 ###############################################################################
-subrutina bintotxt
+subrutina removerEspacios
 entrada: edi puntero donde se pondra el texto
          esi puntero donde se pondra el texto
 salida:  esi apuntara al siguiente caracter despues de haber puesto el texto
