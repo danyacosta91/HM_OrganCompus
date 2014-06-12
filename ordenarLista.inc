@@ -1,8 +1,7 @@
 comment!
 ###############################################################################
-subrutina bintotxt
+subrutina ordenarLista
 entrada: esi apuntador a la lista de valores
-salida:  edi apuntara a donde se ponga el espacio en blanco al final del string
 ############################################################################### 
 !
 ordenarLista:
