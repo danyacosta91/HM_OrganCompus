@@ -1,6 +1,6 @@
 comment!
 ###############################################################################
-subrutina bintotxt
+subrutina mcd
 entrada: ax valor que se quiere sacar el factorial
          bx
 salida:  ax factorial retornado
